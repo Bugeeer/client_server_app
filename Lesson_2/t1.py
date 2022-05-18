@@ -70,4 +70,4 @@ if __name__ == '__main__':
         'info_3.txt'
     ]
 
-    write_to_csv('csa_lesson_2_ex-1.csv', files)
+    write_to_csv('csa_lesson_2_t-1.csv', files)
