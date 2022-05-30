@@ -3,9 +3,9 @@ import os
 import sys
 
 sys.path.append(os.path.join(os.getcwd(), '../'))
-from common.variables import MAX_PACKAGE_LENGTH, ENCODING
-from errors import IncorrectDataReceivedError, NonDictInputError
-from decorators import log
+from variables import MAX_PACKAGE_LENGTH, ENCODING
+from ..errors import IncorrectDataReceivedError, NonDictInputError
+from ..decorators import log
 
 
 @log

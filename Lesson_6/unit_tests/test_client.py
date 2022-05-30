@@ -3,8 +3,8 @@ import unittest
 
 sys.path.append('../')
 
-from common.variables import TIME, RESPONSE, ERROR, ACTION, PRESENCE, USER, ACCOUNT_NAME
-from client import create_presence, process_answer
+from ..common.variables import TIME, RESPONSE, ERROR, ACTION, PRESENCE, USER, ACCOUNT_NAME
+from ..client import create_presence, process_answer
 
 
 class TestClient(unittest.TestCase):

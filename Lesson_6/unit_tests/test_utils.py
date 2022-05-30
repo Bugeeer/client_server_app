@@ -4,8 +4,8 @@ import unittest
 
 sys.path.append('../')
 
-from common.variables import ENCODING, ACTION, PRESENCE, TIME, USER, ACCOUNT_NAME, RESPONSE, ERROR
-from common.utils import send_message, get_message
+from ..common.variables import ENCODING, ACTION, PRESENCE, TIME, USER, ACCOUNT_NAME, RESPONSE, ERROR
+from ..common.utils import send_message, get_message
 
 
 class TestSocket:
