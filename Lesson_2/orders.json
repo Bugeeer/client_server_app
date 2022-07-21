@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "buyer": "Ivanov",
+            "data": "10.01.2021",
+            "item": "meat",
+            "price": "500",
+            "quantity": "10"
+        },
+        {
+            "buyer": "Ivanov",
+            "data": "10.01.2021",
+            "item": "meat",
+            "price": "500",
+            "quantity": "10"
+        },
+        {
+            "item": "adf",
+            "quantity": 3,
+            "price": 23.23,
+            "buyer": "J\u00f6rgen P\u00e5lsson",
+            "date": "29.12.2021"
+        }
+    ]
+}

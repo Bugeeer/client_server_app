@@ -1,0 +1,9 @@
+dict:
+  1€: 1 euro
+  2€: 2 euro
+  3€: 3 euro
+int: 65535
+list:
+- one
+- two
+- four
